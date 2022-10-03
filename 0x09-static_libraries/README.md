@@ -1,1 +1,1 @@
-All about static liberary
+my static lberary readme
